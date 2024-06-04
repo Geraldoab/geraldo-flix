@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.container img {
+  margin: auto;
+}
+
+.container p {
+  font-size: 4vw;
+}
