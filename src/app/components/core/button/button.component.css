@@ -1,0 +1,17 @@
+.custom-button {
+  border: 1px solid #CCC !important;
+	color: #FFF;
+	padding: 2rem;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+  background: none;
+  border-radius: 6px;
+  font-size: 2vw;
+}
+
+.custom-button:hover {
+  cursor: pointer;
+  background-color: #111;
+}
+
