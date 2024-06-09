@@ -3,6 +3,15 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  color: #FFF;
+  border: 1px solid #CCC;
+  border-radius: 16px;
+  padding: 2rem;
+}
+
+.container:hover{
+  cursor: pointer;
+  background-color: #111;
 }
 
 .container img {
