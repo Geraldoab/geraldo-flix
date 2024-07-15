@@ -3,11 +3,12 @@ import { RouterOutlet } from '@angular/router';
 import { PictureProfileComponent } from './components/profile/picture-profile/picture-profile.component';
 import { ManageProfileComponent } from './components/profile/manage-profile/manage-profile.component';
 import { ButtonComponent } from './components/core/button/button.component';
+import { TermsComponent } from './components/terms/terms.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, PictureProfileComponent, ManageProfileComponent, ButtonComponent],
+  imports: [RouterOutlet, PictureProfileComponent, ManageProfileComponent, ButtonComponent, TermsComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })

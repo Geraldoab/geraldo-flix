@@ -1,0 +1,12 @@
+.container p {
+  color: #FFF;
+  text-align: justify;
+  font-size: 1.4em;
+  line-height: 1.6em;
+  padding: 12px;
+}
+
+.container h1 {
+  color: #FFF;
+  text-align: center;
+}
